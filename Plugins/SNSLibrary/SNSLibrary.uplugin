@@ -1,0 +1,23 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "0.1",
+	"FriendlyName": "SNSLibrary",
+	"Description": "",
+	"Category": "SNS",
+	"CreatedBy": "@pafuhana1213",
+	"CreatedByURL": "https://twitter.com/pafuhana1213",
+	"DocsURL": "https://github.com/pafuhana1213/SNSLibrary-For-UE4",
+	"MarketplaceURL": "",
+	"SupportURL": "https://github.com/pafuhana1213/SNSLibrary-For-UE4",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "SNSLibrary",
+			"Type": "Runtime",
+			"LoadingPhase": "PreLoadingScreen"
+		}
+	]
+}
