@@ -23,4 +23,4 @@ Please check the sample project
 
 ## License
 
-[MIT](http://b4b4r07.mit-license.org)
+[MIT](https://github.com/pafuhana1213/SNSLibrary-For-UE4/blob/master/LICENSE)
