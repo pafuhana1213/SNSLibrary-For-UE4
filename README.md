@@ -2,10 +2,10 @@
 ![ScreenShot0](https://raw.githubusercontent.com/pafuhana1213/Screenshot/master/SNSLibrary0.jpg "")  
 It is UE4 plugin for SNS posting.  
 
-## UE4 Version( v0.1 )
-4.18.3  
+## UE4 Version( v0.2 )
+4.21.2  
 
-## Support( v0.1 )
+## Support( v0.2 )
 ### Android
 - Post with text and image to various SNS ( using intent )
 - Reflect screenshot in gallery ( using mediascan )
